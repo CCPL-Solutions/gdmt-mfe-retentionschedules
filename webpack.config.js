@@ -5,7 +5,7 @@ const RetentionSchedulesModuleFederationConfigPlugin = withModuleFederationPlugi
   name: 'gdmt-mfe-retentionschedules',
 
   exposes: {
-    './Component': './src/app/app.component.ts',
+    './RetentionSchedulesModule': './src/app/retention-schedules/retention-schedules.module.ts',
   },
 
   shared: {
