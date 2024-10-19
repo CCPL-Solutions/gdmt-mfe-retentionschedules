@@ -14,6 +14,6 @@ const RetentionSchedulesModuleFederationConfigPlugin = withModuleFederationPlugi
 
 });
 
-RetentionSchedulesModuleFederationConfigPlugin.output.publicPath = 'http://localhost:4201/'
+RetentionSchedulesModuleFederationConfigPlugin.output.publicPath = 'http://localhost:4200/'
 module.exports = RetentionSchedulesModuleFederationConfigPlugin;
 
