@@ -7,7 +7,7 @@
       "type": "chrome",
       "request": "launch",
       "preLaunchTask": "npm: start",
-      "url": "http://localhost:4201/"
+      "url": "https://ccpl-solutions.github.io/gdmt-mfe-retentionschedules/"
     },
     {
       "name": "ng test",

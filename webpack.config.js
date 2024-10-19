@@ -14,6 +14,6 @@ const RetentionSchedulesModuleFederationConfigPlugin = withModuleFederationPlugi
 
 });
 
-RetentionSchedulesModuleFederationConfigPlugin.output.publicPath = 'http://localhost:4201/'
+RetentionSchedulesModuleFederationConfigPlugin.output.publicPath = 'https://ccpl-solutions.github.io/gdmt-mfe-retentionschedules/'
 module.exports = RetentionSchedulesModuleFederationConfigPlugin;
 
